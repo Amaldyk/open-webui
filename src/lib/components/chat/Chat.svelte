@@ -2079,7 +2079,7 @@
 							<div
 								class="absolute bottom-1 text-xs text-gray-500 text-center line-clamp-1 right-0 left-0"
 							>
-								<!-- {$i18n.t('LLMs can make mistakes. Verify important information.')} -->
+								{$i18n.t('LLMs can make mistakes. Verify important information.')}
 							</div>
 						</div>
 					{:else}
@@ -2154,3 +2154,4 @@
 		</div>
 	{/if}
 </div>
+
